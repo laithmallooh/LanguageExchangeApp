@@ -4,4 +4,3 @@ GET {{API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
-git init
